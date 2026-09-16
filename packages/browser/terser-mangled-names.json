@@ -696,6 +696,7 @@
         "_regionCache",
         "_register",
         "_registerExtensionEventProperties",
+        "_registerSurveyTriggers",
         "_register_single",
         "_registeredEventTourIds",
         "_releaseHoldAfterStop",
